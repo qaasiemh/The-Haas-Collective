@@ -1,0 +1,624 @@
+.clearfix {
+	display: block;
+	width: 100%;
+	clear: both;
+	float: none;
+}
+
+.container {
+	width: 1366px;
+	margin: 0 auto;
+}
+
+.logo {
+	padding-top: 17px;
+}
+
+.navbar {
+	background-color: #424242;
+	text-align: center;
+}
+
+.nav ul li{
+	display: inline-block;
+	padding: 5px 15px 15px 15px;
+	font-family: 'Jaldi', sans-serif;
+}
+
+.nav a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.nav a:hover {
+	color: #808080;
+}
+.banner-image {
+	position: relative;
+}
+
+.banner-image button {
+	position: relative;
+	float: right;
+	margin-top: -150px;
+	margin-right: 50px;
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	font-size: 35px;
+	border: none;
+	background-color: #a4a4a4;
+	color: #ffffff;
+	padding: 10px 30px;
+	border-radius: 40px;
+}
+
+.banner-image button:hover {
+	background-color: #424242;
+	cursor: pointer;
+}
+
+.about h1 {
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	font-size: 80px;
+	text-align: center;
+	padding: 30px 0px;
+}
+
+.about h2 {
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+	padding-bottom: 10px;
+}
+
+.about p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	width: 100%;
+}
+
+.about-image {
+	float: left;
+	width: 603px;
+	padding-left: 50px;
+	padding-bottom: 100px;
+}
+
+.about-haas {
+	float: left;
+	width: 600px;
+	padding-left: 50px;
+}
+
+.about button {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	border: none;
+	background-color: #ffffff;
+	color: #a4a4a4;
+	padding: 0px 15px;
+	border-radius: 30px;
+	border: 3px solid #a4a4a4;
+	margin-top: 10px;
+}
+
+.about button:hover {
+	color: #ffffff;
+	background-color: #a4a4a4;
+}
+
+.how-collective-works {
+	float: left;
+	width: 600px;
+	text-align: right;
+	margin-left: 52px;
+}
+
+footer {
+	background-color: #424242;
+	width: 1366px;
+	margin: 0 auto;
+}
+
+.logo-footer {
+	text-align: center;
+	padding-top: 30px;
+	padding-bottom: 30px;
+}
+
+footer h3 {
+	color: #ffffff;
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	padding-bottom: 5px;
+}
+
+footer a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+footer a:hover {
+	color: #808080;
+}
+
+footer li {
+	color: #ffffff;
+}
+
+.f-navigation {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	width: 30%;
+	text-align: center;
+	float: left;
+	margin-left: 65px;
+}
+
+.f-social {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	width: 30%;
+	text-align: center;
+	float: left;
+	padding-bottom: 20px;
+}
+
+.f-contact {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	width: 30%;
+	text-align: center;
+	float: left;
+}
+
+.copyright {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	color: #ffffff;
+	padding: 20px 0px;
+}
+
+/*--------------------Advertising Page-------------*/
+
+.about-advertising h1 {
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	font-size: 80px;
+	text-align: center;
+	padding: 30px 0px;
+}
+
+.about-advertising p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	margin: 0 auto;
+	text-align: center;
+	width: 1100px;
+	padding-bottom: 30px;
+}
+
+.our-values {
+	background-color: #f4f4f4;
+	margin-bottom: 50px;
+}
+
+.our-values h2 {
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	font-size: 60px;
+	padding-bottom: 10px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.our-values p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	margin: 0 auto;
+	text-align: center;
+	width: 1100px;
+	padding-bottom: 30px;
+}
+
+.whos-who h2 {
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	font-size: 60px;
+	padding-bottom: 30px;
+	text-align: center;
+	margin-top: 20px;
+}
+
+.people {
+	float: left;
+	width: 228px;
+	padding-left: 90px;
+	padding-bottom: 50px;
+}
+
+.glynn h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.glynn p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.francois h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.francois p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.tarryn h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.tarryn p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.godfrey h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.godfrey p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.what-we-offer {
+	background-color: #f4f4f4;
+}
+
+.what-we-offer h2 {
+	display: inline-block;
+	font-family: 'Jaldi', sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+	vertical-align: middle;
+	margin-left: 200px;
+	padding-right: 130px;
+}
+
+.what-we-offer img {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.how-we-work h2 {
+	display: inline-block;
+	font-family: 'Jaldi', sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.how-we-work img {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 100px;
+	padding-right: 150px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.our-model {
+	background-color: #f4f4f4;
+}
+
+.our-model img {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.our-model h2 {
+	display: inline-block;
+	font-family: 'Jaldi', sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+	vertical-align: middle;
+	margin-left: 270px;
+	padding-right: 190px;
+}
+.our-experience h2 {
+	display: inline-block;
+	font-family: 'Jaldi', sans-serif;
+	font-size: 60px;
+	font-weight: bold;
+	vertical-align: middle;
+}
+.our-experience img {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 100px;
+	padding-right: 150px;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+/*--------------------Coffee & Art Page-------------*/
+
+.about-coffee h1 {
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	font-size: 80px;
+	text-align: center;
+	padding: 30px 0px;
+}
+
+.about-coffee p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	margin: 0 auto;
+	text-align: center;
+	width: 1100px;
+	padding-bottom: 50px;
+}
+
+.our-coffees img {
+	display: inline-block;
+	vertical-align: middle;
+	margin-left: 130px;
+	padding-right: 70px;
+}
+
+.coffee-text {
+	display: inline-block;
+	vertical-align: middle;
+}
+
+.coffee-text h2 {
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+.coffee-text p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	width: 450px;
+}
+
+.menu h2 {
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	font-size: 60px;
+	padding-bottom: 50px;
+	text-align: center;
+	padding-top: 50px;
+}
+
+.menu-options {
+	text-align: center;
+}
+
+.menu-1 {
+	display: inline-block;
+	padding-right: 100px;
+}
+
+.menu-2 {
+	display: inline-block;
+	padding-left: 100px;
+}
+
+.functions {
+	background-color: #f4f4f4;
+	margin-top: 50px;
+
+}
+
+.functions h2 {
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	font-size: 50px;
+	padding-bottom: 10px;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.functions p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	margin: 0 auto;
+	text-align: center;
+	width: 1100px;
+	padding-bottom: 30px;
+}
+
+.art-design h1 {
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	font-size: 80px;
+	text-align: center;
+	padding: 30px 0px;
+}
+
+.art-banner {
+	padding-bottom: 50px;
+}
+
+.art-text p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	margin: 0 auto;
+	text-align: center;
+	width: 1100px;
+	padding-bottom: 50px;
+}
+
+.our-artists h2 {
+	font-family: 'Jaldi', sans-serif;
+	font-weight: bold;
+	font-size: 60px;
+	padding-bottom: 10px;
+	text-align: center;
+}
+
+.our-artists h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+	padding-bottom: 50px;
+}
+
+/*--------Art-------------*/
+
+.artists {
+	float: left;
+	width: 150px;
+	padding-left: 150px;
+	padding-bottom: 50px;
+}
+
+.ceramicists h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.ceramicists p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.design h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.design p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.graphic h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.graphic p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.jewellery h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.jewellery p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.lighting h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.lighting p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.painting h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.painting p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.photography h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.photography p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
+
+.sculpture h3 {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 10px;
+}
+
+.sculpture p {
+	font-family: 'Jaldi', sans-serif;
+	font-size: 20px;
+	text-align: center;
+}
